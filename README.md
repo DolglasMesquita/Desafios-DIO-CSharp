@@ -1,4 +1,4 @@
-# Desafios-DIO-CSharp
+# Desafios Bootcamp DIO C#
 Solução dos desafios do bootcamp DIO C#
 
 ### Desafios aritméticos em C#
